@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#C9F7D1</color>
+    <color name="popupPrimary">#232726</color>
+    <color name="animal_name">#333333</color>
+    <color name="animal_age">#8c8c8c</color>
+    <color name="animal_gender">#8c8c8c</color>
+    <color name="profile_name">#FF106D1C</color>
+    <color name="app_background">#FFC9F7D1</color>
+    <color name="album_title">#4c4c4c</color>
+</resources>
